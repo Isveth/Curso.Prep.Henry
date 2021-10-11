@@ -1,0 +1,11 @@
+Variables: Cajas compuestas por un nombre y un valor, este valor tiene un tipo que lo define, puede ser
+un string, un número, o booleano. Los valores pueden cambiar su tipo de ser necesario.
+
+Strings: Son letras o palabras o numeros,  encerrados entre comillas.
+
+Funciones (argumentos, return): Son entidades encargadas de transformar, mediante una serie de pasos,
+unos valores de entrada llamados argumentos, en lo que deseemos, mediante un return.
+
+Declaraciones if: Necesarias en caso de querer comparar o verificar si algo se cumple para proceder.
+
+Valores booleanos (true, false): Nos indican si una afirmacipon es falsa o verdadera.
