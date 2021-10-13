@@ -1,0 +1,3 @@
+* `for`: Usado para repetir el mismo proceso tantas veces como se desee
+* `&&`, `||`, `!`: Operadores lógicos, el primero corresponde a "Y", el segundo a "O" y el último
+a "No" o negación de lo que ocurre delante de él.
