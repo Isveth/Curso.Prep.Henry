@@ -1,20 +1,45 @@
+* {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+body{
+    background-image: url(https://cdn.colombia.com/gastronomia/2011/08/02/bandeja-paisa-1616.gif);
+}
+div,span{
+    color: rgb(233, 218, 169);
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;
 
+}
 h1{
-    color: darkred;
+    color: rgb(235, 216, 135);
+    font-weight: bold;
 }
 img{
-    width: 400px;
+    width: 300px;
+    height: 200px;
 }
-.thirdDiv{
-    height: 600px;
-    width: 500px;
-    background-color: gray;
-    padding: 50px;
-    border: 10px;
-    border-color: darkslategray ;
+.link{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+#thirdDiv{
+    height: 580px;
+    width: 450px;
+    background-color: rgb(17, 16, 16);
+    padding: 40px;
+
+    margin-left: 100px;
+    margin-top: 30px;
+    border-style: double;
+    border-width: medium;
+    border-color: rgb(211, 183, 183) ;
 }
 #spanId{
     font-size: 18px;
     margin: 50px;
+    color:wheat;
 }
 
